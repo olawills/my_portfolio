@@ -1,6 +1,8 @@
 # portfolio
 
-A new Flutter project.
+# Screenshots of the portfolio
+Still Under Development
+![](screenshots/1.png) ![](screenshots/2.png)
 
 ## Getting Started
 
